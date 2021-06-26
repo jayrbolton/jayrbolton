@@ -1,10 +1,10 @@
 ### Hello:grey_exclamation:
 
-I am a software engineer with a strong interest in bioinformatics, creative coding, and sharing knowledge.
+I am a software engineer with interests in computational biology, creative coding, and sharing knowledge.
 
-I work at [Lawrence Berkeley National Lab](https://www.lbl.gov/) on a project called [KBase](https://www.kbase.us/).
+I currently work on infrastructure for genomics data analysis at [Karius Diagnostics](https://kariusdx.com).
 
-I've been spending some free time solving [Rosalind bioinformatics problems](http://rosalind.info/users/jayrbolton/) and writing a small puzzle game in Unity.
+I've been spending some free time solving [Rosalind bioinformatics problems](http://rosalind.info/users/jayrbolton/) and writing a small puzzle game in Unity involving cats.
 
 Lately I've enjoyed programming in Rust and C!
 
