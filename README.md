@@ -1,6 +1,6 @@
 ### Hello:grey_exclamation:
 
-I am a software engineer with interests in computational biology, creative coding, and sharing knowledge.
+I am a software engineer living in Oakland, CA with interests in computational biology, creative coding, and sharing knowledge.
 
 I currently work on infrastructure for genomics data analysis at [Karius Diagnostics](https://kariusdx.com).
 
