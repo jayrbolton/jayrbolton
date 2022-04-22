@@ -10,8 +10,9 @@ Lately I've enjoyed programming in Rust and C!
 
 Other projects:
 
-* A [COVID-19 Dashboard](https://github.com/jayrbolton/covid19-growth-dashboard) for tracking US and worldwide growth
 * [Polygram](https://www.jayrbolton.com/polygram/#eJyNkctqwzAQRX/FDBScVgljk0DRrl203XSTQh8EL1RbxiLCCpJCmob8e0eyHJxdF0Zz53E8ujrBAfg9IoMuna0DDt9a1FtgUJPYbKAGViBWFQMZEidogZ+gE+5JaQ28FdpJFvTaeOGV6YF7ux9Sb96arZwmtvIwlbXQqXxmsAtgp5rwHyjDBmanolghqR8Klhii4yVqaYe1bICXcX1Sz1ZKWiGpR72Xk+KD3nUCeMHAxc3iKJQRNWTS+FVugOAoEwRehe8WTvU5LhCxyG4z7/IZHfkKs3mmZrML4UM1njwuSZMB79J6RTefMtKoom/AxWFqfjFW/Zre/6c9uDmBF9kdddxky7F2xZpWrWiU6IPTCRyh8U7jZUJXeGD5Ga0Y4i+K6eGCYVocpZ0jnKvzHyNIru4=) for interactively generating mathematical animations
+* [Monkeypatch CMS](https://github.com/jayrbolton/monkeypatch-cms) for live editing web pages
+* A [COVID-19 Dashboard](https://github.com/jayrbolton/covid19-growth-dashboard) for tracking US and worldwide growth
 * [1d Cellular Automata](http://www.jayrbolton.com/elementary_cellular_automata/#) simulator in javascript
 * [Dontdie](https://github.com/jayrbolton/dontdie) - a sass startup runway calculator [view](http://www.jayrbolton.com/dontdie/?burn=50000&cash=300000&churn=2&cpa=500&perc=1&rev=300&sales=12&tot=15000)
 * [Linear partitioning](https://github.com/jayrbolton/linear-partitioning) algorithm in javascript
